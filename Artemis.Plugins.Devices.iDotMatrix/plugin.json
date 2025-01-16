@@ -1,0 +1,11 @@
+{
+  "Guid": "58B457DF-993C-4DEF-AF75-106234EDCE44",
+  "Api": "1.0.0",
+  "Name": "iDotMatrix Devices",
+  "Author": "Piripe",
+  "Icon": "DotsGrid",
+  "Description": "Allows Artemis to control iDotMatrix devices",
+  "Version": "1.0.0.0",
+  "Main": "Artemis.Plugins.Devices.iDotMatrix.dll",
+  "Platforms": "Windows"
+}

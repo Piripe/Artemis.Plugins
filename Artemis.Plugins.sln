@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artemis.Plugins.Devices.iDotMatrix", "Artemis.Plugins.Devices.iDotMatrix\Artemis.Plugins.Devices.iDotMatrix.csproj", "{83D17520-6964-437E-81A2-91339B99BC6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83D17520-6964-437E-81A2-91339B99BC6F}.Debug|x64.ActiveCfg = Debug|x64
+		{83D17520-6964-437E-81A2-91339B99BC6F}.Debug|x64.Build.0 = Debug|x64
+		{83D17520-6964-437E-81A2-91339B99BC6F}.Release|x64.ActiveCfg = Release|x64
+		{83D17520-6964-437E-81A2-91339B99BC6F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D859489-B7BD-4FBC-8149-D7BA5EDEA2AD}
+	EndGlobalSection
+EndGlobal
