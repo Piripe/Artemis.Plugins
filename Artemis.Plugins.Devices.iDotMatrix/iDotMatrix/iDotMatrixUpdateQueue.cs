@@ -60,7 +60,6 @@ namespace Artemis.Plugins.Devices.iDotMatrix
                 using (var data = image.Encode(SKEncodedImageFormat.Png, 50))
                 using (var stream = data.AsStream())
                 {
-                    File.WriteAllBytes(@"D:\Documents\Desktop\out.gif", data.ToArray());
                     SetPng(stream);
                 }
 
